@@ -1,0 +1,17 @@
+The basis of the project was to create a fully functioning table game application.
+
+I couldn't find the exact requirements that this assignment asked me to do, however the main objectives were:
+
+1 - To make clear and concise blocks of code. Notes before each block to easily determine function.
+
+2 - Make applet interactive with different users
+
+3 - No collisions with GUI objects
+
+4 - Create zones in which objects will interact with
+
+5 - Create pop up boxes example: error messages
+
+6 - Make application functional with no bugs
+
+7 - Overall use of objects, conditions and statments learned throughtout the session
